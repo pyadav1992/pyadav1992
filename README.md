@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pratik Yadav> I am currently working as an Embedded Firmware Engineer. Here are some highlights of my technical background:
+- 👋 Hi, I’m Pratik Yadav, I am currently working as an Embedded Firmware Engineer. Here are some highlights of my technical background:
   - Experience researching, designing, developing, testing, debugging, and optimizing embedded solutions.
   - Proficient with C, Data structures, Algorithms, and Software version controlling (SVN, GIT).
   - Excellent knowledge of developing RTOS-based embedded systems with micro-controllers and electrical sensors.
