@@ -5,8 +5,8 @@
   - Efficient in reading and interpreting electrical schematics and adept in using lab equipment for testing.
 
 - 💞️ I’m looking to collaborate on:
-  - low power, battery operated IoT projects
-  - Software integration of various radios (Wifi, BLE, zwave, etc)
+  - Low power, battery operated IoT projects.
+  - Software integration of various radios (Wifi, BLE, zwave, etc).
   
 - 👀 I’m my free time I like playing and watching soccer (GGMU), cooking and travelling.
 
